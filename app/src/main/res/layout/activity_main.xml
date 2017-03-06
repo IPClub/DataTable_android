@@ -24,10 +24,9 @@
 
 
         <Button
-            android:text="table1"
+            android:text="log index"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/button"
             android:onClick="index"
             android:layout_weight="1" />
 

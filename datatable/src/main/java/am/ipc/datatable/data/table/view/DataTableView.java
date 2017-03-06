@@ -290,7 +290,7 @@ public class DataTableView extends LinearLayout {
             case SINGLE_CHOICE:
                 createSingleChoiceTable(container, data);
                 break;
-            case MULTY_CHOICE:
+            case MULTI_CHOICE:
                 createMultiChoiceTable(container, data);
                 break;
             default:
